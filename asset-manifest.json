@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portflow/static/css/main.4bac01ed.css",
+    "main.js": "/Portflow/static/js/main.ad2adc12.js",
+    "static/media/img1.png": "/Portflow/static/media/img1.a32bd65e604c74350a6d.png",
+    "static/media/icon insta.svg": "/Portflow/static/media/icon insta.c06bc5081e82a5d60462ada509ee8242.svg",
+    "static/media/TWITTER_icon-icons.com_65486.svg": "/Portflow/static/media/TWITTER_icon-icons.com_65486.53fa6563596a76b7da26aedb35f6c58e.svg",
+    "static/media/icon zap.svg": "/Portflow/static/media/icon zap.5556aaa874e4b94c4845fd701899f757.svg",
+    "static/media/YOUTUBE_icon-icons.com_65487.svg": "/Portflow/static/media/YOUTUBE_icon-icons.com_65487.1b8abac29d2c3b71803cfc16b39b461e.svg",
+    "static/media/facebook icons.com_65484.svg": "/Portflow/static/media/facebook icons.com_65484.4bb7445ea367ba9bf293241715eafb7f.svg",
+    "index.html": "/Portflow/index.html",
+    "static/media/icon telegram.svg": "/Portflow/static/media/icon telegram.e3cf3e4b53ca0a1b642ece2788c9e76d.svg",
+    "main.4bac01ed.css.map": "/Portflow/static/css/main.4bac01ed.css.map",
+    "main.ad2adc12.js.map": "/Portflow/static/js/main.ad2adc12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bac01ed.css",
+    "static/js/main.ad2adc12.js"
+  ]
+}
