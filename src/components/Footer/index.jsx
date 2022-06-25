@@ -10,12 +10,12 @@ export default function Footer(){
     return(
         <S.Footer>
             <S.SocialMedias class="social-medias">
-                <a href="#" target="_blank" rel="noopener noreferrer"><S.Image src={youtube} alt="youtube"/></a>
-                <a href="#" target="_blank" rel="noopener noreferrer"><S.Image src={telegram} alt="telegram"/></a>
-                <a href="#" target="_blank" rel="noopener noreferrer"><S.Image src={instagram} alt="instagram"/></a>
-                <a href="#" target="_blank" rel="noopener noreferrer"><S.Image src={zap} alt="whatsapp"/></a>
-                <a href="#" target="_blank" rel="noopener noreferrer"><S.Image src={twitter} alt="twitter"/></a>
-                <a href="#" target="_blank" rel="noopener noreferrer"><S.Image src={facebook} alt="facebook"/></a>
+                <a href="#" target="_blank" rel="noopener noreferrer"><S.Image src='https://raw.githubusercontent.com/LeeYooBin/Portflow/0522cb9b5d26b03f04f554d37c917cc257cfccb5/src/imgs/YOUTUBE_icon-icons.com_65487.svg' alt="youtube"/></a>
+                <a href="#" target="_blank" rel="noopener noreferrer"><S.Image src='https://raw.githubusercontent.com/LeeYooBin/Portflow/0522cb9b5d26b03f04f554d37c917cc257cfccb5/src/imgs/icon%20telegram.svg' alt="telegram"/></a>
+                <a href="#" target="_blank" rel="noopener noreferrer"><S.Image src='https://raw.githubusercontent.com/LeeYooBin/Portflow/0522cb9b5d26b03f04f554d37c917cc257cfccb5/src/imgs/icon%20insta.svg' alt="instagram"/></a>
+                <a href="#" target="_blank" rel="noopener noreferrer"><S.Image src='https://raw.githubusercontent.com/LeeYooBin/Portflow/0522cb9b5d26b03f04f554d37c917cc257cfccb5/src/imgs/icon%20zap.svg' alt="whatsapp"/></a>
+                <a href="#" target="_blank" rel="noopener noreferrer"><S.Image src='https://raw.githubusercontent.com/LeeYooBin/Portflow/0522cb9b5d26b03f04f554d37c917cc257cfccb5/src/imgs/TWITTER_icon-icons.com_65486.svg' alt="twitter"/></a>
+                <a href="#" target="_blank" rel="noopener noreferrer"><S.Image src='https://raw.githubusercontent.com/LeeYooBin/Portflow/0522cb9b5d26b03f04f554d37c917cc257cfccb5/src/imgs/facebook%20icons.com_65484.svg' alt="facebook"/></a>
             </S.SocialMedias>
 
             <S.Copyright class="copyright">

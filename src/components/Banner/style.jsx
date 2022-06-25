@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Banner = styled.div`
     width: 100%;
     height: 95vh;
-    background-image: url(https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=90838487-a7fa-4a2c-8cf4-a4748238ac5c&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303);
+    background-image: url(https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/main.png?raw=true);
     background-size: cover;
     background-position: 85%;
     color: #FFF;

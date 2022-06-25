@@ -1,44 +1,45 @@
 import * as S from './style';
+import img1 from '../../imgs/img1.png';
 
 export default function Gallery(){
     return(
         <S.Wrapper>
             <S.Gallery>
-                <S.A href="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=19c89313-5c10-4b02-8025-bdc3b441a985&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" target='_blank'>
-                    <S.IMG src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=19c89313-5c10-4b02-8025-bdc3b441a985&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" alt="" />
+                <S.A href='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img1.png?raw=true' target='_blank'>
+                    <S.IMG src='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img1.png?raw=true' alt=''/>
                 </S.A>
-                <S.A href="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=adfbfb3d-2d19-4ee2-864a-1fab47fbd04d&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" target='_blank'>
-                    <S.IMG src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=adfbfb3d-2d19-4ee2-864a-1fab47fbd04d&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" alt="" />
+                <S.A href='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img2.png?raw=true' target='_blank'>
+                    <S.IMG src='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img2.png?raw=true' alt=''/>
                 </S.A>
-                <S.A href="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=f916152c-556a-4192-befa-98ace09876a9&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" target='_blank'>
-                    <S.IMG src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=f916152c-556a-4192-befa-98ace09876a9&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" alt="" />
+                <S.A href='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img3.png?raw=true' target='_blank'>
+                    <S.IMG src='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img3.png?raw=true' alt=''/>
                 </S.A>
-                <S.A href="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=81ee2a50-f13b-4a78-b195-b6379957813c&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" target='_blank'>
-                    <S.IMG src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=81ee2a50-f13b-4a78-b195-b6379957813c&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" alt="" />
+                <S.A href='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img4.png?raw=true' target='_blank'>
+                    <S.IMG src='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img4.png?raw=true' alt=''/>
                 </S.A>
-                <S.A href="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=7b5bfb9b-e543-4110-b33e-1be24e48e5ce&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" target='_blank'>
-                    <S.IMG src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=7b5bfb9b-e543-4110-b33e-1be24e48e5ce&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" alt="" />
+                <S.A href='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img5.png?raw=true' target='_blank'>
+                    <S.IMG src='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img5.png?raw=true' alt=''/>
                 </S.A>
-                <S.A href="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=3a51ffd3-b617-494d-afec-1147303b545b&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" target='_blank'>
-                    <S.IMG src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=3a51ffd3-b617-494d-afec-1147303b545b&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" alt="" />
+                <S.A href='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img6.png?raw=true' target='_blank'>
+                    <S.IMG src='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img6.png?raw=true' alt=''/>
                 </S.A>
-                <S.A href="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=4c58fbe6-6fe1-4b45-80c9-95d32b5f2a68&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" target='_blank'>
-                    <S.IMG src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=4c58fbe6-6fe1-4b45-80c9-95d32b5f2a68&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" alt="" />
+                <S.A href='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img7.png?raw=true' target='_blank'>
+                    <S.IMG src='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img7.png?raw=true' alt=''/>
                 </S.A>
-                <S.A href="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=4b059ab3-a955-4d81-9348-18126b8375eb&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" target='_blank'>
-                    <S.IMG src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=4b059ab3-a955-4d81-9348-18126b8375eb&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" alt="" />
+                <S.A href='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img8.png?raw=true' target='_blank'>
+                    <S.IMG src='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img8.png?raw=true' alt=''/>
                 </S.A>
-                <S.A href="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=b55661a9-9615-4c4a-927d-7897479d8003&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" target='_blank'>
-                    <S.IMG src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=b55661a9-9615-4c4a-927d-7897479d8003&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" alt="" />
+                <S.A href='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img9.png?raw=true' target='_blank'>
+                    <S.IMG src='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img9.png?raw=true' alt=''/>
                 </S.A>
-                <S.A href="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=e0284c42-50bd-4773-8ce2-784da593cf7e&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" target='_blank'>
-                    <S.IMG src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=e0284c42-50bd-4773-8ce2-784da593cf7e&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" alt="" />
+                <S.A href='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img10.png?raw=true' target='_blank'>
+                    <S.IMG src='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img10.png?raw=true' alt=''/>
                 </S.A>
-                <S.A href="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=9de62b04-447e-4b45-a00e-2263e8a5028a&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" target='_blank'>
-                    <S.IMG src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=9de62b04-447e-4b45-a00e-2263e8a5028a&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" alt="" />
+                <S.A href='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img11.png?raw=true' target='_blank'>
+                    <S.IMG src='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img11.png?raw=true' alt=''/>
                 </S.A>
-                <S.A href="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=313c479a-1f4b-4921-b2eb-4de52f4692c2&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" target='_blank'>
-                    <S.IMG src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:13ead2e1-3ac9-44a1-b4cb-14736da07bb0;revision=0?component_id=313c479a-1f4b-4921-b2eb-4de52f4692c2&api_key=CometServer1&access_token=1655944010_urn%3Aaaid%3Asc%3AUS%3A13ead2e1-3ac9-44a1-b4cb-14736da07bb0%3Bpublic_c5b357e1882d88eaa6b40257c186b4f3d2c36303" alt="" />
+                <S.A href='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img12.png?raw=true' target='_blank'>
+                    <S.IMG src='https://github.com/LeeYooBin/Portflow/blob/main/src/imgs/img12.png?raw=true' alt=''/>
                 </S.A>
             </S.Gallery>
         </S.Wrapper>
